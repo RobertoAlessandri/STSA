@@ -33,7 +33,7 @@ After that we tried to see if it was possible to get a musical effect out of it.
 
 ## Source Codes
 
-All the codes are based on the theory explained by Godsin and Reiner in their papers and books of late 90's. TO DO PUTE REFERENCES AND THEN HYPERLINKS
+All the codes are based on the theory explained by Godsin and Reiner in their papers and books of late 90's. TO DO PUT REFERENCES AND THEN HYPERLINKS.
 (Also the audio files come from their site). TODO HYPERLINKS
 
 Here I'll talk about Python files, but the structure for the MatLab ones is the same.
@@ -51,8 +51,6 @@ The scripts has the following structure:
 * Noise Estimation
 
 * Suppression Rule. Here in the Music Effect file we resynthesized the signal
-
-* Train dataset generation -> To generate the dataset for the training, first we randomly select 300 sentences from the TIMIT/TRAIN dataset. And since we want to reach a dataset size of 6000 datapoints, we locate 1 sentence in 30 different DOAs;
 
 * Final Results and Plots.
 
