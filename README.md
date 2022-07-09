@@ -33,8 +33,8 @@ After that we tried to see if it was possible to get a musical effect out of it.
 
 ## Source Codes
 
-All the codes are based on the theory explained by Godsin and Reiner in their papers and books of late 90's. TO DO PUT REFERENCES AND THEN HYPERLINKS.
-(Also the audio files come from their site). TODO HYPERLINKS
+All the codes are based on the theory explained by Godsin and Reiner in their [paper](https://github.com/RobertoAlessandri/STSA/blob/main/References/Godsill-Reiner%20-%20Digital%20Audio%20Restoration%20paper.pdf) and [book](https://github.com/RobertoAlessandri/STSA/blob/main/References/Godsill-Reiner%20-%20Digital%20audio%20restoration%20book.pdf) of late 90's.
+(Also the audio files come from their [site](http://www-sigproc.eng.cam.ac.uk/~sjg/springer/)). 
 
 Here I'll talk about Python files, but the structure for the MatLab ones is the same.
 The only difference is that in MatLab functions are defined in different files. But that won't change the execution.
