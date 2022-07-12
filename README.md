@@ -56,7 +56,7 @@ The scripts has the following structure:
 
 ## Presentation
 
-A detailed description of our work can be find here: **TODO** put hypertext to the slides (?)
+A detailed description of our work can be find in our [Presentation](https://github.com/RobertoAlessandri/STSA/blob/main/Presentation.pptx)
 
 ## Contacts
 
